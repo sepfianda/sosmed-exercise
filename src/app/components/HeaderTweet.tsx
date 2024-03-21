@@ -32,7 +32,6 @@ const HeaderTweet: React.FC = () => {
       <div className="flex justify-end">
         <Button>Tweet</Button>
       </div>
-      
       <Separator className="my-4"/>
 
 
