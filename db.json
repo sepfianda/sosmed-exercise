@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Budi Budi",
+      "email": "budi@mail.com",
+      "isVerify": true
+    },
+    {
+      "name": "Joko Joko",
+      "email": "joko@mail.com",
+      "password": "Admin123",
+      "isVerify": false,
+      "id": 2
+    },
+    {
+      "name": "Siti Siti",
+      "email": "siti@mail.com",
+      "password": "Admin123",
+      "isVerify": false,
+      "id": 3
+    },
+    {
+      "name": "Heru Heru",
+      "email": "heru@mail.com",
+      "password": "Admin123",
+      "isVerify": false,
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "isVerify": false,
+      "id": 5
+    }
+  ]
+}
